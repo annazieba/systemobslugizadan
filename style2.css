@@ -1,0 +1,78 @@
+body {
+	background-color:#e6e6e6;
+	font-family:Verdana;
+}
+
+header {
+	text-align:letf;
+	font-weight: 500;
+	font-size:25px;
+	font-family:Verdana;
+}
+
+#naglowek {
+	margin-top: 50px;
+	text-align:center;
+	font-weight: 500;
+	font-size:35px;
+	font-family:Verdana;
+}
+
+#main {
+	width:100%;
+	
+}
+
+#to_do {
+	float: left;
+	width:400px;
+	text-align:center;
+}
+
+#in_progress {
+	float: left;
+	width:400px;
+	text-align:center;
+}
+
+#done {
+	float: left;
+	width:400px;
+	text-align:center;
+}
+
+#container1 {
+	height:800px;
+	border-right: 1px solid #ccc;
+	border-top: 1px solid #ccc;
+	text-align:center;
+}
+
+#container2 {
+	height:800px;
+	border-right: 1px solid #ccc;
+	border-top: 1px solid #ccc;
+	text-align:center;
+
+}
+
+#container3 {
+	height:800px;
+	border-top: 1px solid #ccc;
+	text-align:center;
+}
+
+#btn {
+	text-align:right;
+	border: none;
+	background-color: #4CAF50;
+	padding: 14px 28px;
+	font-size: 16px;
+	cursor: pointer;
+	display: inline-block;
+	color: white;
+	text-align:left;
+}
+
+#btn:hover {background: #45a049;}
+
